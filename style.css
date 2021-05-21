@@ -1,16 +1,18 @@
 body {
   text-align: center;
-  background: linear-gradient ( #E1BEE7 0% #90CAF9 100%)
+ 
 }
 h1 {
   text-shadow: 2px 2px #F8BBD0;
   font-size: 20px;
 }
-img {
-  width: 50px;
-  height: 50px;
+.profile {
+   width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+
+ 
 }
-p {
-    height: 200px;
-    width: 200px;
+#welcome{
+   background: linear-gradient ( #e2d181 10% #a3ed34 100%)  
 }
